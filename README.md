@@ -22,3 +22,8 @@ To suppress text output with plots, put a semicolon after the command that draws
 ### Assignment 3: 98/100
 1. 50/50 Good work!
 2. 48/50 While support levels had to be the same, min_threshold should have been varied to get better observations (-2)
+
+### Assignment 4: 97/100
+Great work!\
+1.1. 47/50 Name is not a feature and should not be included in the scatter plot (-3)\
+1.2. 50/50
