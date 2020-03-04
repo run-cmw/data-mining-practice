@@ -27,3 +27,9 @@ To suppress text output with plots, put a semicolon after the command that draws
 Great work!\
 1.1. 47/50 Name is not a feature and should not be included in the scatter plot (-3)\
 1.2. 50/50
+
+### Assignment 5: 118/100
+1.1 25/25\
+1.2 23/25 PM values over time (not the averages) should be displayed in a single plot (-2)\
+1.3 50/50\
+1.4 +20
